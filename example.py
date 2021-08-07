@@ -1,1 +1,3 @@
-print("ahmadreza")
+if 2>1:
+    print("ahmad")
+
